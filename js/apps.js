@@ -7,8 +7,8 @@ versions.v1 = {
   date: "2025",
   folder: "asset-v1/", // ← If you are adding more versions, make sure follder is correct, for example "asset-v2/" for v2
   looptime: 11997,
-  bpm: idk,
-  totalframe: 260,
+  bpm: 80,
+  totalframe: 130,
   nbpolo: 7,
   bonusloopA: false, // ← It makes bonus start on loop A, if its false, bonus will start after 1 loop
   bonusendloopA: true,
